@@ -1,0 +1,12 @@
+.可操控後端（有別於操控dom的js）
+.模組
+.匿名函數
+..用匿名函數的目的？
+..callback
+...非同步 但server跑在單線程上
+...如果是php apache新增一個現成apache server
+...我們建立了伺服器,並向建立它的方法傳遞一個函數
+...只要server收到request,這個函數就會被執行
+..回到callback
+
+
